@@ -1,1 +1,4 @@
-# if_else.py - Template file
+if (5 >=6 ):
+    print("sachu che bhai")
+else:
+    print(" budhi chod ")
